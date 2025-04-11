@@ -67,6 +67,7 @@ console.log('object');
 // Event handling
 
 console.log("You look beautiful");
+console.log("You look Awesome");
 
 
 
