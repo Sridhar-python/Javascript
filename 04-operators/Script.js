@@ -62,9 +62,11 @@ console.log(myVariable);
 //Filter 
 //reduce 
 // DOM manupulation
-
+console.log('object');
 // loops
 // Event handling
+
+console.log("You look beautiful");
 
 
 
